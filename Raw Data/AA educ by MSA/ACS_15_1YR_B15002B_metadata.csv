@@ -1,0 +1,22 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD01_VD02,Estimate; Male:
+HD01_VD03,Estimate; Male: - Less than 9th grade
+HD01_VD04,"Estimate; Male: - 9th to 12th grade, no diploma"
+HD01_VD05,Estimate; Male: - Regular high school diploma
+HD01_VD06,Estimate; Male: - GED or alternative credential
+HD01_VD07,"Estimate; Male: - Some college, no degree"
+HD01_VD08,Estimate; Male: - Associate's degree
+HD01_VD09,Estimate; Male: - Bachelor's degree
+HD01_VD10,Estimate; Male: - Graduate or professional degree
+HD01_VD11,Estimate; Female:
+HD01_VD12,Estimate; Female: - Less than 9th grade
+HD01_VD13,"Estimate; Female: - 9th to 12th grade, no diploma"
+HD01_VD14,Estimate; Female: - Regular high school diploma
+HD01_VD15,Estimate; Female: - GED or alternative credential
+HD01_VD16,"Estimate; Female: - Some college, no degree"
+HD01_VD17,Estimate; Female: - Associate's degree
+HD01_VD18,Estimate; Female: - Bachelor's degree
+HD01_VD19,Estimate; Female: - Graduate or professional degree
